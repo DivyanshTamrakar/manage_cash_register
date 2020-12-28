@@ -1,0 +1,73 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0px;
+  background-color: royalblue;
+}
+.header {
+  background-color: royalblue;
+  padding: 1rem;
+  color: white;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.header2 {
+  color: white;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.bill_field {
+  width: 70%;
+  height: 10vh;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.header3 {
+  color: white;
+}
+.recieved_field {
+  width: 70%;
+  height: 10vh;
+  margin-top: 10px;
+  text-align: center;
+}
+.button {
+  width: 70%;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  border: 1px solid white;
+  background-color: teal;
+  color: white;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.ouptut {
+  font-size: 1.5rem;
+  margin: auto;
+  margin-top: 2rem;
+  background-color: skyblue;
+  padding: 1rem;
+  width: 40%;
+  border-radius: 0.5rem;
+}
+.marign {
+  margin: 1rem;
+}
+.marign1 {
+  margin: 1.3rem;
+}
+
+.marign2 {
+  margin: 1.4rem;
+}
+.margin-top {
+  margin-top: 1rem;
+}
